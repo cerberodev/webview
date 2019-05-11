@@ -1,6 +1,6 @@
 # webview
 
-A new Flutter project.
+A new Flutter project, App WebView de la pagina de GitHub de Pierre Guillen.
 
 ## Getting Started
 
